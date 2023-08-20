@@ -2,6 +2,9 @@
 
 A simple web application that visualizes data using Chart.js with React.
 
+<img width="664" alt="Screenshot 2023-08-20 175800" src="https://github.com/proteeti13/Chartjs-temperature-data/assets/11318378/30e4a37b-b676-498f-8acf-abc743ff5d71">
+
+
 ## Features
 
 - Interactive data visualization using Chart.js
