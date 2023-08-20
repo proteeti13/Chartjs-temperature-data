@@ -32,9 +32,6 @@ A simple web application that visualizes data using Chart.js with React.
 
   This will start the development server on http://localhost:3000/.
 
-  ## License
-  This project is licensed under the MIT License - see the LICENSE.md file for details.
-
   ## Acknowledgements
   - [React.js] (https://react.dev/)
   - [Chart.js] (https://www.chartjs.org/)
